@@ -1,8 +1,7 @@
 import compile
 import re
-SLACK_BOT_TOKEN='xoxb-5256167969204-5253413559990-3CYo74Ar10Kk7oBo3j6oobux'
-
-SLACK_APP_TOKEN='xapp-1-A058BLW1S2U-5257072942581-111e9e47b8ab178cc2725f7c2d0b9433b5efceee10628e58adf451dceac48012'
+SLACK_BOT_TOKEN= 
+SLACK_APP_TOKEN=
 import os
 import random
 from slack_bolt import App
