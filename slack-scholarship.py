@@ -13,9 +13,9 @@ from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
 
 channel_id = "C057MRN3H0B"
-SLACK_BOT_TOKEN = "xoxb-5256167969204-5262487236836-PPa5PyQ5FzqBwGqKFGDfA8oW"
-SLACK_APP_TOKEN = "xapp-1-A057K1BGQ05-5260162177731-895d20c7d5c7cf2758edc8cfac29c0719b292dcf0bff47dac98e8b21457b7f24"
-SLACK_SIGNING_SECRET = "65a47903b065eccdf296e029e3bbb079"
+SLACK_BOT_TOKEN = 
+SLACK_APP_TOKEN =
+SLACK_SIGNING_SECRET = 
 
 
 app = App(
