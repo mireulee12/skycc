@@ -1,4 +1,4 @@
 # skycc
 2023 skycc pairing
 
-![2022 spring 표지](https://user-images.githubusercontent.com/56993675/147876805-2bcaf810-2f2c-470d-89be-0051e1e5e4a2.png)
+![Web App Reference Architecture](https://github.com/mireulee12/skycc/assets/60784366/b0bdee8f-d4c3-457c-8778-5939e3268f30)
